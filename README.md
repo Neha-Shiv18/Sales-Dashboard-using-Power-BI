@@ -4,11 +4,7 @@
 
 In an era where AI tools can generate dashboards instantly, this project focuses on building a sales dashboard from scratch using traditional data analytics techniques in Power BI.
 
-The goal was to understand data modeling, DAX calculations, and visualization design rather than relying on automated tools.
-
-In an era where AI tools can generate dashboards instantly, this project focuses on building a sales dashboard from scratch using traditional data analytics techniques in Power BI.
-
-The goal was to understand data modeling, DAX calculations, and visualization design rather than relying on automated tools.
+The goal was to understand DAX calculations, and visualization design rather than relying on automated tools.
 
 ##### 🎯 Objectives
 Analyze sales performance
