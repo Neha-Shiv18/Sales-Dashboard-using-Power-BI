@@ -27,7 +27,7 @@ Dynamic visuals and filters
 
 ### 🛠️ Tools & Technologies
 Power BI for visualizations 
-DAX and Power Query for data cleaning and measuring more attirbutes. 
+DAX and Power Query for data cleaning and measuring more attibutes 
 
 ### Key insights 
 The average order value (AOV) remained relatively stable, indicating minimal change in customer spending per order.
