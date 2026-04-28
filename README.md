@@ -37,6 +37,7 @@ A benchmark of 5% Month-on-Month (MoM) sales growth was set. The business exceed
 Cost of production (COGS) has decreased over time, leading to a marginal improvement in profit margins.
 
 #### 📂 Files Included
+A snapshot of the dashboard has also been attached. Name : DASHBOARD_SALES PERFORMANCE
 Power BI file (.pbix) name : sales dashbaord overview 
 Dataset name : Retail_Sales 
 
