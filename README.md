@@ -34,7 +34,6 @@ Cost of production (COGS) has decreased over time, leading to a marginal improve
 
 #### 📂 Files Included
 A snapshot of the dashboard has also been attached. Name : DASHBOARD_SALES PERFORMANCE
-Power BI file (.pbix) name : sales dashbaord overview 
 Dataset name : Retail_Sales 
 
 
